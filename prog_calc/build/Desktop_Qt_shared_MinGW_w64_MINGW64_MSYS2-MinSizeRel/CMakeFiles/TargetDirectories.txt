@@ -1,0 +1,8 @@
+C:/Users/makos/Desktop/QT/prog_calc/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-MinSizeRel/CMakeFiles/prog_calc.dir
+C:/Users/makos/Desktop/QT/prog_calc/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-MinSizeRel/CMakeFiles/edit_cache.dir
+C:/Users/makos/Desktop/QT/prog_calc/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-MinSizeRel/CMakeFiles/rebuild_cache.dir
+C:/Users/makos/Desktop/QT/prog_calc/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-MinSizeRel/CMakeFiles/list_install_components.dir
+C:/Users/makos/Desktop/QT/prog_calc/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-MinSizeRel/CMakeFiles/install.dir
+C:/Users/makos/Desktop/QT/prog_calc/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-MinSizeRel/CMakeFiles/install/local.dir
+C:/Users/makos/Desktop/QT/prog_calc/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-MinSizeRel/CMakeFiles/install/strip.dir
+C:/Users/makos/Desktop/QT/prog_calc/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-MinSizeRel/CMakeFiles/prog_calc_autogen.dir
